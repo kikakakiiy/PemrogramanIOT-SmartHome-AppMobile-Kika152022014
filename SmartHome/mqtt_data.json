@@ -1,0 +1,152 @@
+[
+    {
+        "topic": "tubesprakiot/Gas",
+        "message": "Berbahaya",
+        "timestamp": "2025-01-13 12:25:32"
+    },
+    {
+        "topic": "tubesprakiot/Rain",
+        "message": "Hujan",
+        "timestamp": "2025-01-13 12:25:37"
+    },
+    {
+        "topic": "tubesprakiot/Temperature",
+        "message": "28.10",
+        "timestamp": "2025-01-13 12:25:42"
+    },
+    {
+        "topic": "tubesprakiot/Humidity",
+        "message": "77.00",
+        "timestamp": "2025-01-13 12:25:43"
+    },
+    {
+        "topic": "tubesprakiot/Gas",
+        "message": "Berbahaya",
+        "timestamp": "2025-01-13 12:25:43"
+    },
+    {
+        "topic": "tubesprakiot/Rain",
+        "message": "Hujan",
+        "timestamp": "2025-01-13 12:25:47"
+    },
+    {
+        "topic": "tubesprakiot/Temperature",
+        "message": "28.10",
+        "timestamp": "2025-01-13 12:25:52"
+    },
+    {
+        "topic": "tubesprakiot/Humidity",
+        "message": "77.10",
+        "timestamp": "2025-01-13 12:25:53"
+    },
+    {
+        "topic": "tubesprakiot/Gas",
+        "message": "Berbahaya",
+        "timestamp": "2025-01-13 12:25:53"
+    },
+    {
+        "topic": "tubesprakiot/Rain",
+        "message": "Hujan",
+        "timestamp": "2025-01-13 12:25:57"
+    },
+    {
+        "topic": "tubesprakiot/Temperature",
+        "message": "28.10",
+        "timestamp": "2025-01-13 12:26:04"
+    },
+    {
+        "topic": "tubesprakiot/Humidity",
+        "message": "77.10",
+        "timestamp": "2025-01-13 12:26:04"
+    },
+    {
+        "topic": "tubesprakiot/Gas",
+        "message": "Berbahaya",
+        "timestamp": "2025-01-13 12:26:04"
+    },
+    {
+        "topic": "tubesprakiot/Rain",
+        "message": "Hujan",
+        "timestamp": "2025-01-13 12:26:08"
+    },
+    {
+        "topic": "tubesprakiot/Temperature",
+        "message": "28.10",
+        "timestamp": "2025-01-13 12:26:14"
+    },
+    {
+        "topic": "tubesprakiot/Humidity",
+        "message": "77.20",
+        "timestamp": "2025-01-13 12:26:14"
+    },
+    {
+        "topic": "tubesprakiot/Gas",
+        "message": "Berbahaya",
+        "timestamp": "2025-01-13 12:26:14"
+    },
+    {
+        "topic": "tubesprakiot/Rain",
+        "message": "Hujan",
+        "timestamp": "2025-01-13 12:26:18"
+    },
+    {
+        "topic": "tubesprakiot/Temperature",
+        "message": "28.10",
+        "timestamp": "2025-01-13 12:26:24"
+    },
+    {
+        "topic": "tubesprakiot/Humidity",
+        "message": "77.20",
+        "timestamp": "2025-01-13 12:26:25"
+    },
+    {
+        "topic": "tubesprakiot/Gas",
+        "message": "Berbahaya",
+        "timestamp": "2025-01-13 12:26:25"
+    },
+    {
+        "topic": "tubesprakiot/Rain",
+        "message": "Hujan",
+        "timestamp": "2025-01-13 12:26:29"
+    },
+    {
+        "topic": "tubesprakiot/Temperature",
+        "message": "28.10",
+        "timestamp": "2025-01-13 12:26:35"
+    },
+    {
+        "topic": "tubesprakiot/Humidity",
+        "message": "77.20",
+        "timestamp": "2025-01-13 12:26:35"
+    },
+    {
+        "topic": "tubesprakiot/Gas",
+        "message": "Berbahaya",
+        "timestamp": "2025-01-13 12:26:35"
+    },
+    {
+        "topic": "tubesprakiot/Rain",
+        "message": "Hujan",
+        "timestamp": "2025-01-13 12:26:39"
+    },
+    {
+        "topic": "tubesprakiot/Temperature",
+        "message": "29.80",
+        "timestamp": "2025-01-13 13:52:06"
+    },
+    {
+        "topic": "tubesprakiot/Humidity",
+        "message": "72.40",
+        "timestamp": "2025-01-13 13:52:06"
+    },
+    {
+        "topic": "tubesprakiot/Rain",
+        "message": "Tidak Hujan",
+        "timestamp": "2025-01-13 13:52:06"
+    },
+    {
+        "topic": "tubesprakiot/Gas",
+        "message": "Tidak Berbahaya",
+        "timestamp": "2025-01-13 13:52:06"
+    }
+]
